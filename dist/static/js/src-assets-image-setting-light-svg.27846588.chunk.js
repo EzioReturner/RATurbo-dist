@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[137],{"./src/assets/image/setting/light.svg":function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/img/light.ccbb6cbd.svg"}}]);
+//# sourceMappingURL=src-assets-image-setting-light-svg.27846588.chunk.js.map
