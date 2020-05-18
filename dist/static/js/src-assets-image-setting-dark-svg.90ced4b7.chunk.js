@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[140],{"./src/assets/image/setting/dark.svg":function(s,a,t){"use strict";t.r(a),a.default=t.p+"static/img/dark.51a66c49.svg"}}]);
-//# sourceMappingURL=src-assets-image-setting-dark-svg.90ced4b7.chunk.js.map

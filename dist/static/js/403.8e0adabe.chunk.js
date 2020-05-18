@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"./src/views/Exception/403.tsx":function(e,t,n){"use strict";n.r(t);var o=n("./node_modules/react/index.js"),c=n.n(o),r=n("./src/components/Exception/index.tsx"),a=n("./src/components/FormatterLocale/index.tsx");t.default=function(){return c.a.createElement(o.Fragment,null,c.a.createElement(r.default,{errorCode:"403",title:c.a.createElement(a.default,{id:"exception.403"})}))}}}]);
-//# sourceMappingURL=403.8e0adabe.chunk.js.map

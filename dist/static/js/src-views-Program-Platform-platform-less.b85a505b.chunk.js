@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[172],{"./src/views/Program/Platform/platform.less":function(o,s,w){}}]);
-//# sourceMappingURL=src-views-Program-Platform-platform-less.b85a505b.chunk.js.map

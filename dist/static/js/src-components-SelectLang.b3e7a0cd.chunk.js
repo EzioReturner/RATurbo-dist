@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"./node_modules/antd/es/dropdown/index.js":function(e,n,o){e.exports=o("dll-reference _dll_components")(223)},"./node_modules/antd/es/menu/index.js":function(e,n,o){e.exports=o("dll-reference _dll_components")(107)}}]);
-//# sourceMappingURL=src-components-SelectLang.b3e7a0cd.chunk.js.map

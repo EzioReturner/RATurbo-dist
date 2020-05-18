@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{"./src/api/analysis.js":function(o,s,t){"use strict";t.r(s),t.d(s,"default",(function(){return c}));var n=t("./src/utils/io.ts"),d=t("./node_modules/mockjs/dist/mock.js"),u=t.n(d),a=u.a.mock({"data|70-100":["@word"]});function c(){return n.default.get("/get/wordCloud")}u.a.mock("/get/wordCloud",a)}}]);
-//# sourceMappingURL=src-api-analysis.62d39934.chunk.js.map
