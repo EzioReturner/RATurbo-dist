@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[145],{"./src/assets/image/setting/vertical.svg":function(s,t,e){"use strict";e.r(t),t.default=e.p+"static/img/vertical.d0efa020.svg"}}]);
+//# sourceMappingURL=src-assets-image-setting-vertical-svg.e35e8d50.chunk.js.map

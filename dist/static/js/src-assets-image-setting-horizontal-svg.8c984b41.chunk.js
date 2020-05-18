@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[141],{"./src/assets/image/setting/horizontal.svg":function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/img/horizontal.f80ad184.svg"}}]);
+//# sourceMappingURL=src-assets-image-setting-horizontal-svg.8c984b41.chunk.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[59,134,137],{"./src/assets/image/setting/dark.svg":function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/img/dark.51a66c49.svg"},"./src/assets/image/setting/light.svg":function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/img/light.ccbb6cbd.svg"}}]);
-//# sourceMappingURL=src-components-LayoutSetting-ThemeChange.761408a6.chunk.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[144],{"./src/assets/image/setting/split.svg":function(s,t,i){"use strict";i.r(t),t.default=i.p+"static/img/split.5d82973f.svg"}}]);
+//# sourceMappingURL=src-assets-image-setting-split-svg.8b2d785d.chunk.js.map
