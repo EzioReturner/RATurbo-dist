@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[131],{"./src/assets/image/setting/inline.svg":function(s,i,n){"use strict";n.r(i),i.default=n.p+"static/img/inline.4b04fff4.svg"}}]);
+//# sourceMappingURL=src-assets-image-setting-inline-svg.8cc4d9d1.chunk.js.map

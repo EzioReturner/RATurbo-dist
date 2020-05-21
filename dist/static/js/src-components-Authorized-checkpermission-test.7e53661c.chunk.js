@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{"./src/components/Authorized/checkpermission.test.js":function(n,o){}}]);
-//# sourceMappingURL=src-components-Authorized-checkpermission-test.7e53661c.chunk.js.map
